@@ -1,0 +1,22 @@
+{
+    "name": "c64",
+    "displayName": "C64",
+    "description": "This is a theme inspired by the C64 color scheme. Maybe more nostalgic value than useful. You decide!",
+    "version": "0.0.1",
+    "publisher": "perragnaredin",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "C64",
+                "uiTheme": "vs-dark",
+                "path": "./themes/C64-color-theme.json"
+            }
+        ]
+    }
+}
