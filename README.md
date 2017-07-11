@@ -1,4 +1,4 @@
-# C64
+# C64 - A retro theme for Visual Studio Code
 
 This is my third vscode theme and this time it's not a very useful one. But it's pretty, I promise! :)
 
