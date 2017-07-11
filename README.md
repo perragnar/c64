@@ -5,6 +5,10 @@ There are probably a few bugs btw.
 
 [![Demo](https://raw.githubusercontent.com/perragnar/c64/master/images/demo.gif)](https://youtu.be/Fgt48kJyhIk)
 
+## Screenshot
+
+![C64](https://raw.githubusercontent.com/perragnar/c64/master/images/screenshot-01.jpg)
+
 ## Recommended settings
 
 The theme itself isn't enough to get that retro feeling. Head over to [style64.org](http://style64.org/c64-truetype) and install the C64 font.  
@@ -24,6 +28,8 @@ You can also try some settings to tweak the editor even more:
 Try Zen Mode also for a full screen experience. <kbd>⌘K</kbd> <kbd>Z</kbd> on a Mac or <kbd>ctrl+K</kbd> <kbd>Z</kbd> on Windows and Linux machines.
 
 ## More SWAG?
+
+![C64](https://raw.githubusercontent.com/perragnar/c64/master/images/screenshot-cool-retro-term.jpg)
 
 If you have a Mac and want to go even further with the C64 feel, head over to Github and download [cool-retro-term](https://github.com/Swordfish90/cool-retro-term).
 Go to settings and import this config:
