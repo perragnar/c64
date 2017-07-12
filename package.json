@@ -2,7 +2,7 @@
     "name": "c64",
     "displayName": "C64",
     "description": "This is a theme inspired by the C64 color scheme. Maybe more nostalgic value than useful. You decide!",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "perragnaredin",
     "icon": "images/icon.png",
     "engines": {

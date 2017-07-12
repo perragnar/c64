@@ -1,6 +1,6 @@
 # C64 - A retro theme for Visual Studio Code
 
-This is my third vscode theme and this time it's not a very useful one. But it's pretty, I promise! :)
+This is my third vscode theme and this time I'm afraid it's not a very useful one. But it's pretty, I promise!
 There are probably a few bugs btw.
 
 [![Demo](https://raw.githubusercontent.com/perragnar/c64/master/images/demo.gif)](https://youtu.be/Fgt48kJyhIk)
@@ -29,10 +29,12 @@ Try Zen Mode also for a full screen experience. <kbd>⌘K</kbd> <kbd>Z</kbd> on 
 
 ## More SWAG?
 
+
+If you have a Mac and want to go even further with the C64 feel, head over to Github and download [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) for a nice terminal emulator.
+
 ![C64](https://raw.githubusercontent.com/perragnar/c64/master/images/screenshot-cool-retro-term.jpg)
 
-If you have a Mac and want to go even further with the C64 feel, head over to Github and download [cool-retro-term](https://github.com/Swordfish90/cool-retro-term).
-Go to settings and import this config:
+Go to settings and import this config (save the config to a json file, eg c64.json):
 
 ```json
 {
